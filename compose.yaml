@@ -1,0 +1,11 @@
+services:
+  battletechmods:
+    image: battletechmods
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./:/app
+
+
+      
