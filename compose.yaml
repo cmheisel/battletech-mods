@@ -1,11 +1,10 @@
 services:
-  battletechmods:
-    image: battletechmods
+  btmods:
+    image: btmods
     build:
       context: .
       dockerfile: ./Dockerfile
+    entrypoint: /bin/bash
     volumes:
       - ./:/app
-
-
       
