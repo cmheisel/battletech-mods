@@ -1,0 +1,106 @@
+{
+    "Locations": [
+        {
+            "Location": "Head",
+            "Hardpoints": [
+								{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},
+								{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},
+								{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},
+								{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},
+						],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 45,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "LeftArm",
+            "Hardpoints": [
+								{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},
+								{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},
+								{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},
+								{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},
+						],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 60,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
+        },
+        {
+            "Location": "LeftTorso",
+            "Hardpoints": [
+								{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},
+								{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},
+								{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},
+								{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},
+						],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 80,
+            "MaxRearArmor": 40,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "CenterTorso",
+            "Hardpoints": [
+								{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},
+								{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},
+								{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},
+								{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},
+						],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 110,
+            "MaxRearArmor": 55,
+            "InternalStructure": 55
+        },
+        {
+            "Location": "RightTorso",
+            "Hardpoints": [
+								{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},
+								{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},
+								{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},
+								{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},
+						],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 80,
+            "MaxRearArmor": 40,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "RightArm",
+            "Hardpoints": [
+								{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},{"WeaponMount": "Ballistic","Omni": false},
+								{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},{"WeaponMount": "Energy","Omni": false},
+								{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},{"WeaponMount": "Missile","Omni": false},
+								{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},{"WeaponMount": "AntiPersonnel","Omni": false},
+						],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 60,
+            "MaxRearArmor": -1,
+            "InternalStructure": 30
+        },
+        {
+            "Location": "LeftLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "RightLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        }
+    ]
+}
